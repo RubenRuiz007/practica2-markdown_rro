@@ -48,8 +48,8 @@ Ojo con el último:
 
 ```mermaid
 flowchart LR
-    A[Navegador] --> B[Servidor PHP]
-    B --> A
+A[Navegador] --> B[Servidor PHP]
+B --> A
 ```
 
 ## Tareas pendientes
